@@ -1,3 +1,4 @@
+//validation for empty sting, object
 const isEmpty = value =>
   value === undefined ||
   value === null ||
